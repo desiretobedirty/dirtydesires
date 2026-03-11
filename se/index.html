@@ -75,10 +75,10 @@ function displayQuote() {
 
 document.addEventListener("DOMContentLoaded", function() {
 
-    fetch("quotesse.txt")
+    fetch("quotes.txt")
         .then(response => {
             if (!response.ok) {
-                throw new Error("Could not load quotesse.txt");
+                throw new Error("Could not load quotes.txt");
             }
             return response.text();
         })
