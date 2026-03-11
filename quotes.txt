@@ -128,5 +128,11 @@ Would they rather, pain or pleasure? (Drink if wrong)
 Would they rather, rough sex or slow and intense? (Drink if wrong)
 Would they rather, tie up or be tied up? (Drink if wrong)
 
-[toys]
+[whitetoys]
+Toys expansion cards coming soon.
+
+[redtoys]
+Toys expansion cards coming soon.
+
+[blacktoys]
 Toys expansion cards coming soon.
