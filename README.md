@@ -1,5 +1,5 @@
 # dirtydesires
-Dirty Desires, Sip, Strip &amp; Surrender
+Dirty Desires, Sip, Strip &amp; Surrender!
 #
 The ultimate drinking game for couples who want to spice things up.
 
